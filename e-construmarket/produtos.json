@@ -1,0 +1,90 @@
+[
+  {
+    "nome": "Mouse",
+    "preco": 2300,
+    "marca": {
+      "nome": "Logitech",
+      "codigoMarca": "e543f54f-c5d4-424b-9095-446d9d8c6a0d"
+    }
+  },
+  {
+    "nome": "Monitor",
+    "preco": 99.9,
+    "marca": {
+      "nome": "Razer",
+      "codigoMarca": "b62b52eb-78fa-4b06-ac9d-13278626be6b"
+    }
+  },
+  {
+    "nome": "Mouse",
+    "preco": 25,
+    "marca": {
+      "nome": "Razer",
+      "codigoMarca": "1bc5d982-a7bc-4bb7-a194-107083bef3a2"
+    }
+  },
+  {
+    "nome": "Teclado",
+    "preco": 2300,
+    "marca": {
+      "nome": "Apple",
+      "codigoMarca": "f40590e0-7de9-4971-8e37-8fdd9873b7cb"
+    }
+  },
+  {
+    "nome": "Monitor",
+    "preco": 99.9,
+    "marca": {
+      "nome": "Lg",
+      "codigoMarca": "7cc9aed3-e308-4e0d-80dd-bf543cd65985"
+    }
+  },
+  {
+    "nome": "Teclado",
+    "preco": 930,
+    "marca": {
+      "nome": "Razer",
+      "codigoMarca": "f6a0fd81-1281-4384-9d1b-1251b73bd11e"
+    }
+  },
+  {
+    "nome": "Monitor",
+    "preco": 99.9,
+    "marca": {
+      "nome": "Apple",
+      "codigoMarca": "78a88517-f183-448f-9a5b-e85ad929fd17"
+    }
+  },
+  {
+    "nome": "Fone",
+    "preco": 2300,
+    "marca": {
+      "nome": "Apple",
+      "codigoMarca": "154662d1-7ae7-4c7a-bda4-c735c7e5e044"
+    }
+  },
+  {
+    "nome": "Fone",
+    "preco": 930,
+    "marca": {
+      "nome": "Lg",
+      "codigoMarca": "21568aab-7030-42b3-a955-aa49b09d7c3c"
+    }
+  },
+  {
+    "nome": "Teclado",
+    "preco": 2300,
+    "marca": {
+      "nome": "Logitech",
+      "codigoMarca": "624aeccd-2988-495b-bfad-96da1314bd4f"
+    }
+  },
+  {
+    "nome": "Monitor",
+    "preco": 930,
+    "marca": {
+      "nome": "Logitech",
+      "codigoMarca": "c987e6e7-2806-4550-a24b-d675af734b5c"
+    }
+  }
+]
