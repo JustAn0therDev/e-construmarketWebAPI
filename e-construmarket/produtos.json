@@ -4,7 +4,7 @@
     "preco": 2300,
     "marca": {
       "nome": "Logitech",
-      "codigoMarca": "e543f54f-c5d4-424b-9095-446d9d8c6a0d"
+      "codigoMarca": "ec3640f7-cfe9-4b87-a6f0-c8a2133fce99"
     }
   },
   {
@@ -12,7 +12,7 @@
     "preco": 99.9,
     "marca": {
       "nome": "Razer",
-      "codigoMarca": "b62b52eb-78fa-4b06-ac9d-13278626be6b"
+      "codigoMarca": "dc24b817-1cce-4672-8dc2-8aee87f8607f"
     }
   },
   {
@@ -20,7 +20,7 @@
     "preco": 25,
     "marca": {
       "nome": "Razer",
-      "codigoMarca": "1bc5d982-a7bc-4bb7-a194-107083bef3a2"
+      "codigoMarca": "dc24b817-1cce-4672-8dc2-8aee87f8607f"
     }
   },
   {
@@ -36,7 +36,7 @@
     "preco": 99.9,
     "marca": {
       "nome": "Lg",
-      "codigoMarca": "7cc9aed3-e308-4e0d-80dd-bf543cd65985"
+      "codigoMarca": "c599fd0e-539d-44b4-be02-8c371eb26154"
     }
   },
   {
@@ -44,7 +44,7 @@
     "preco": 930,
     "marca": {
       "nome": "Razer",
-      "codigoMarca": "f6a0fd81-1281-4384-9d1b-1251b73bd11e"
+      "codigoMarca": "dc24b817-1cce-4672-8dc2-8aee87f8607f"
     }
   },
   {
@@ -52,7 +52,7 @@
     "preco": 99.9,
     "marca": {
       "nome": "Apple",
-      "codigoMarca": "78a88517-f183-448f-9a5b-e85ad929fd17"
+      "codigoMarca": "47245a36-8042-4899-8bc3-8710fb511a9b"
     }
   },
   {
@@ -60,7 +60,7 @@
     "preco": 2300,
     "marca": {
       "nome": "Apple",
-      "codigoMarca": "154662d1-7ae7-4c7a-bda4-c735c7e5e044"
+      "codigoMarca": "47245a36-8042-4899-8bc3-8710fb511a9b"
     }
   },
   {
@@ -68,7 +68,7 @@
     "preco": 930,
     "marca": {
       "nome": "Lg",
-      "codigoMarca": "21568aab-7030-42b3-a955-aa49b09d7c3c"
+      "codigoMarca": "c599fd0e-539d-44b4-be02-8c371eb26154"
     }
   },
   {
@@ -76,7 +76,7 @@
     "preco": 2300,
     "marca": {
       "nome": "Logitech",
-      "codigoMarca": "624aeccd-2988-495b-bfad-96da1314bd4f"
+      "codigoMarca": "ec3640f7-cfe9-4b87-a6f0-c8a2133fce99"
     }
   },
   {
@@ -84,7 +84,103 @@
     "preco": 930,
     "marca": {
       "nome": "Logitech",
+      "codigoMarca": "ec3640f7-cfe9-4b87-a6f0-c8a2133fce99"
+    }
+  },
+  {
+    "nome": "Teclado Mecanico",
+    "preco": 890,
+    "marca": {
+      "nome": "Razer",
+      "codigoMarca": "dc24b817-1cce-4672-8dc2-8aee87f8607f"
+    }
+  },
+  {
+    "nome": "Mouse",
+    "preco": 50,
+    "marca": {
+      "nome": "Multilaser",
       "codigoMarca": "c987e6e7-2806-4550-a24b-d675af734b5c"
+    }
+  },
+  {
+    "nome": "Fone de ouvido",
+    "preco": 30,
+    "marca": {
+      "nome": "Corsair",
+      "codigoMarca": "c987e6e7-2806-4550-a24b-d675af734b5c"
+    }
+  },
+  {
+    "nome": "Monitor",
+    "preco": 2000,
+    "marca": {
+      "nome": "Samsung",
+      "codigoMarca": "46df5308-842c-4122-a8b8-6ed604441024"
+    }
+  },
+  {
+    "nome": "Mouse Trackball",
+    "preco": 303,
+    "marca": {
+      "nome": "Logitech",
+      "codigoMarca": "ec3640f7-cfe9-4b87-a6f0-c8a2133fce99"
+    }
+  },
+  {
+    "nome": "Teclado Mecanico",
+    "preco": 580,
+    "marca": {
+      "nome": "Hyper X",
+      "codigoMarca": "c8832446-1e1a-424d-bcb7-c01343bb4c2d"
+    }
+  },
+  {
+    "nome": "Notebook XPS 15",
+    "preco": 13000,
+    "marca": {
+      "nome": "Dell",
+      "codigoMarca": "1d456e90-788b-4dc4-b2fe-5cbe813b14ed"
+    }
+  },
+  {
+    "nome": "MacBook",
+    "preco": 15000,
+    "marca": {
+      "nome": "Apple",
+      "codigoMarca": "47245a36-8042-4899-8bc3-8710fb511a9b"
+    }
+  },
+  {
+    "nome": "Teclado Kinesis Advantage 2",
+    "preco": 15000,
+    "marca": {
+      "nome": "Kinesis Ergo",
+      "codigoMarca": "a730b7ef-737e-4301-9580-5ec2741bfe12"
+    }
+  },
+  {
+    "nome": "Mouse Gamer",
+    "preco": 15000,
+    "marca": {
+      "nome": "Steel Series",
+      "codigoMarca": "fa489112-5d6a-41c9-873f-50454d63c1c2"
+    }
+  },
+  {
+    "nome": "Televisão",
+    "preco": 15000,
+    "marca": {
+      "nome": "Sony",
+      "codigoMarca": "8a9ada1a-7c11-4254-8fa6-1d375d8a4bc1"
+    }
+  },
+  {
+    "nome": "Teclado sem fio",
+    "preco": 180,
+    "marca": {
+      "nome": "Microsoft",
+      "codigoMarca": "99bf8f3f-7847-4ceb-8f59-96a2c9ddf944"
     }
   }
 ]
