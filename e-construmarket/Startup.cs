@@ -43,11 +43,11 @@ namespace e_construmarket
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseCors();
-
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseAuthorization();
 
