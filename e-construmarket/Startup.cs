@@ -25,8 +25,7 @@ namespace e_construmarket
                 options.AddDefaultPolicy(builder =>
                     {
                         builder
-                        // TODO: permitir requisicoes apenas de localhost da aplicacao ASP.NET Mvc
-                        .WithOrigins("http://localhost:3800")
+                        .WithOrigins("https://localhost:44376", "http://localhost:5000", "https://localhost:5001")
                         .AllowAnyHeader()
                         .AllowAnyMethod();
                     });
