@@ -3,7 +3,9 @@ e-construmarket - WebAPI
 
 # Solução
 
-Os projetos foram separados dentro da solução para comportar uma dependência acíclica com injeção de dependência e testes.
+Os projetos foram separados dentro da solução para comportar uma dependência acíclica com injeção de dependência e inversão de controle com testes:
+
+![Demonstração de dependências no projeto](e_construmarket_demo.jpg)
 
 # Para testar o projeto:
 1. Clone o repositório em um diretório local;
