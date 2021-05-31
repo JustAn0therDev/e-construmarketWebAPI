@@ -37,7 +37,7 @@ namespace Tests.ControllerTests
             var controllerResponseList = result.Value as List<Produto>;
 
             Assert.True(result.StatusCode == 200);
-            Assert.True(controllerResponseList.Count > 0);
+            Assert.True(controllerResponseList != null && controllerResponseList.Count > 0);
         }
     }
 }

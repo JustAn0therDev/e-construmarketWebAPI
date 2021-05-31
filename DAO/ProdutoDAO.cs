@@ -1,11 +1,14 @@
-﻿using Entities;
+﻿using DAO.Interfaces;
+using Entities;
+using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
-using Newtonsoft.Json;
-using DAO.Interfaces;
 
 namespace DAO
 {
+    /// <summary>
+    /// Classe de interação com repositório de Produtos
+    /// </summary>
     public class ProdutoDAO : IProdutoDAO
     {
         public IEnumerable<Produto> GetAll()
